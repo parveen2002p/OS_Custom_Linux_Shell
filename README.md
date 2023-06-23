@@ -1,5 +1,5 @@
 # OS_Custom_Linux_Shell
-Implemented a custom shell having 8 different commands to execute using POSIX threads &amp; system calls. With error handling and 2 flags for each command.
+Developed a custom shell having 8 different commands to execute using POSIX threads & system calls. This shell implementation includes error handling, and each command is accompanied by 2 flags.
 
 Refer to the documentation for more details & test cases.
 
